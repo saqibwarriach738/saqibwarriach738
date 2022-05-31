@@ -31,7 +31,7 @@
 ### A Student & Developer
 
 <div align="left">
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/mhmzdev/mhmzdev/master/code.gif" width="400px"/>
 </div>
 <div align="left">
   - A result-oriented creative with a knack for solving interesting problems.
